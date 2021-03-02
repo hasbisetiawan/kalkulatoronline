@@ -49,7 +49,7 @@
 	     border-radius: 4px;
 	}
 	.box {
-		background-image: url(https://i.postimg.cc/C5wtGrf1/bg1.png);
+		background-image: url(https://github.com/hasbisetiawan/kalkulatoronline/blob/main/bg1.PNG);
 	}
 	
 
