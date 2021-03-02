@@ -49,7 +49,7 @@
 	     border-radius: 4px;
 	}
 	.box {
-		background-image: url(https://github.com/hasbisetiawan/kalkulatoronline/blob/main/bg1.PNG);
+		background-image: url(https://raw.githubusercontent.com/hasbisetiawan/kalkulatoronline/main/bg1.PNG);
 		width: 640px;
 		height: 853px;
 	}
