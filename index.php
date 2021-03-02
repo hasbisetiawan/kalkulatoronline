@@ -49,7 +49,7 @@
 	     border-radius: 4px;
 	}
 	.box {
-		background-image: url(img/bg1.png);
+		background-image: url(https://i.postimg.cc/C5wtGrf1/bg1.png);
 		width: 640px;
 		height: 853px;
 	}
