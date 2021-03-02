@@ -50,6 +50,8 @@
 	}
 	.box {
 		background-image: url(https://github.com/hasbisetiawan/kalkulatoronline/blob/main/bg1.PNG);
+		width: 640px;
+		height: 853px;
 	}
 	
 
