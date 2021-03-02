@@ -50,8 +50,6 @@
 	}
 	.box {
 		background-image: url(https://i.postimg.cc/C5wtGrf1/bg1.png);
-		width: 600px;
-		height: 800px;
 	}
 	
 
